@@ -1,12 +1,22 @@
+<div align="center"><img src="\src\img\one.png" width="200"/></div>
+
 # Challenge Oracle One - Alura Latam- Encriptador
 
 Challenge realizado sobre el módulo _Principiante en Programación One_ realizado en la plataforma de **Alura Latam**, para el proyecto **Oracle One**
+
+<p align="center" >
+    <img src="\src\img\screenshot.png" /> 
+</p>
+
+---
 
 # 📝 Descripción
 
 Este proyecto es una aplicación que utiliza HTML, CSS, JavaScript para encriptar y desencriptar texto. La encriptación se realiza mediante la sustitución de ciertas letras por otras según un conjunto específico de reglas. La aplicación solo acepta letras minúsculas y no se permiten acentos ni caracteres especiales.
 
 La página web cuenta con campos para que el usuario pueda ingresar el texto que desea encriptar o desencriptar y seleccionar la opción correspondiente. El resultado de la operación se muestra en la pantalla y existe la opción de copiar el texto encriptado o desencriptado al portapapeles mediante un botón de "copiar".
+
+---
 
 # 📑 Requisitos
 
@@ -20,6 +30,7 @@ La página web cuenta con campos para que el usuario pueda ingresar el texto que
 ---
 
 # 📒 Diccionarios
+
 ## 🔒 Diccionario de encriptacion
 | 🔑 Llave | ✏️ Reemplazo |
 |-----------|-----------|
@@ -29,6 +40,7 @@ La página web cuenta con campos para que el usuario pueda ingresar el texto que
 | o | ober |
 | u | ufat |
 
+---
 
 ## 🔓 Diccionario de desencriptacion
 | 🔑 Llave | ✏️ Reemplazo |
@@ -42,6 +54,19 @@ La página web cuenta con campos para que el usuario pueda ingresar el texto que
 ---
 
 # 📑Extras:
+
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.
+
+---
+
+# 📑Mensaje secreto!
+
+fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!
+
+---
+
+# 📑Mensaje desencriptado!
+
+felicidades por enfrentar este desafio y haberlo concluido con exito!
 
 ---
