@@ -248,6 +248,7 @@ body {
 }
 
 .aside__content {
+  color: #000000;
   background-color: #ffffff;
   box-shadow: 0 0 2em 0 rgba(0, 0, 0, .38);
   -webkit-box-shadow: 0 0 2em 0 rgba(0, 0, 0, .38);
