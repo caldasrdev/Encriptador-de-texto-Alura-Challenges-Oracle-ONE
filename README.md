@@ -1,11 +1,11 @@
-<div align="center"><img src="\src\img\one.png" width="200"/></div>
+<div align="center"><img src="Encriptador-de-texto-Alura-Challenges-Oracle-ONE\src\img\one.png" width="200"/></div>
 
 # Challenge Oracle One - Alura Latam- Encriptador
 
 Challenge realizado sobre el módulo _Principiante en Programación One_ realizado en la plataforma de **Alura Latam**, para el proyecto **Oracle One**
 
 <p align="center" >
-    <img src="\src\img\screenshot.png" /> 
+    <img src="Encriptador-de-texto-Alura-Challenges-Oracle-ONE\src\img\screenshot.png" /> 
 </p>
 
 ---
